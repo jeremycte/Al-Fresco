@@ -5,4 +5,4 @@ This is the repository for Hack&Roll 2022 Team #240A
 
 
 ## At a Glance 🔥
-Check out our landing page for more information! [hacknroll.jeremycte.com](hacknroll.jeremycte.com)
+Check out our landing page for more information! [https://hacknroll.jeremycte.com](https://hacknroll.jeremycte.com)
